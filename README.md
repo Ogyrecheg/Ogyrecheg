@@ -2,7 +2,7 @@
 <h3 align="center">Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate almost any situation that happens in our lives, it's very exciting and insanely addictive :)</h3>
 <img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pashkavrn&label=Profile%20views&color=0e75b6&style=flat" alt="pashkavrn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogyrecheg&label=Profile%20views&color=0e75b6&style=flat" alt="ogyrecheg" /> </p>
 
 - 🌱 I’m currently learning **Python, Backend, HTML, SQL**
 
