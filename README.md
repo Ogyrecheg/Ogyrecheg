@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> My name is Alexsandr! I am currently a beginner Python developer.</h1>
 <h3 align="center">Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate almost any situation that happens in our lives, it's very exciting and insanely addictive :)</h3>
-<img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogyrecheg&label=Profile%20views&color=0e75b6&style=flat" alt="ogyrecheg" /> </p>
 
